@@ -1,14 +1,14 @@
 # TRTC-demo
-    └─quick-demo-vue3-ts                   # 前端项目目录
+    └─quick-demo-vue3-ts            # 前端项目目录
         ├─public
         └─src
             ├─api                   # 服务AIP配置
             ├─assets                # 静态资源（包含 公共样式、图片）
             │  ├─css                
             │  └─image
-            ├─components		    # 组件封装
+            ├─components            # 组件封装
             │  ├─ui                 #一些次要ui组件
-            │  other.vue   		    # 页面的主要组件
+            │  other.vue            # 页面的主要组件
             ├─locales               # 语言模块
             │  ├─lang               # 语言选项（目前有英文和中文）
             ├─router                # 路由
