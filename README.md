@@ -6,7 +6,7 @@
             ├─assets                # 静态资源（包含 公共样式、图片）
             │  ├─css                
             │  └─image
-            ├─components			# 组件封装
+            ├─components		    # 组件封装
             │  ├─ui                 #一些次要ui组件
             │  other.vue   		    # 页面的主要组件
             ├─locales               # 语言模块
