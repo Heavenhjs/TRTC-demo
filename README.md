@@ -10,7 +10,7 @@
             │  ├─ui                 #一些次要ui组件
             │  other.vue   		    # 页面的主要组件
             ├─locales               # 语言模块
-            │  ├─lang  				# 语言选项（目前有英文和中文）
+            │  ├─lang               # 语言选项（目前有英文和中文）
             ├─router                # 路由
             ├─store                 # axios 封装
             ├─types                 # 一些类的封装
